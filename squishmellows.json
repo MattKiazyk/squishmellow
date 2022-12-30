@@ -1,9 +1,12 @@
 {
   "squishmellows": [
     {
-      "id": "1",
       "name": "Aldea",
-      "description": "This is a test"
+      "hint": "This is a hint"
+    },
+        {
+      "name": "Amina",
+      "hint": "This is a hint2"
     }
   ]
 }
